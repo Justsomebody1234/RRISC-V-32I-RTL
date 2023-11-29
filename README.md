@@ -1,4 +1,4 @@
-# RRISC-V-32I-RTL
+# RISC-V-32I-RTL
 RISC_V 32bit Integer instruction computer architecture RTL using HDL   
 
 System designed using the following data from link 
